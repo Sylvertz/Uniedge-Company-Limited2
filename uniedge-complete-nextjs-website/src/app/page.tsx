@@ -6,7 +6,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="bg-blue-900 text-white">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center px-6 py-20 gap-10">
-          <div className="md:w-1/2 space-y-6">
+          <div className="md:w-1 space-y-6">
             <img src="/logo.png" alt="Uniedge Consulting" className="h-16" />
             <h1 className="text-4xl md:text-5xl font-bold">Driven by Insights, Powered by Results.</h1>
             <p className="text-lg">Empowering businesses in Zanzibar and East Africa with strategic consulting, market intelligence, and B2B solutions.</p>
