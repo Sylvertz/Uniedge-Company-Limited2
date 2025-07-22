@@ -43,6 +43,12 @@
       "regex": "^/contact(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/contact(?:/)?$"
+    },
+    {
+      "page": "/service",
+      "regex": "^/service(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/service(?:/)?$"
     }
   ],
   "dataRoutes": [],
